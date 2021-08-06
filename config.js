@@ -8,8 +8,8 @@ const ICONS = [
     link: "https://www.youtube.com/"
   },
   {
-    icon: "ri-whatsapp-fill",
-    link: "https://web.whatsapp.com/"
+    icon: "ri-google-fill",
+    link: "https://mail.google.com/mail/u/1/#inbox"
   },
   {
     icon: "ri-reddit-fill",
