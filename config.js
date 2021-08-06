@@ -22,6 +22,7 @@ const ICONS = [
   {
     icon: "ri-netflix-fill",
     link: "https://www.netflix.com/"
+  }
 ]
 
 const LIST_ITEMS = [
