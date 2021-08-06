@@ -8,20 +8,32 @@ const ICONS = [
     link: "https://www.youtube.com/"
   },
   {
+    icon: "ri-netflix-fill",
+    link: "https://www.netflix.com/"
+  },
+  {
     icon: "ri-google-fill",
     link: "https://mail.google.com/mail/u/1/#inbox"
+  },
+  {
+    icon: "ri-pinterest-fill",
+    link: "https://www.pinterest.de/"
   },
   {
     icon: "ri-reddit-fill",
     link: "https://www.reddit.com/"
   },
   {
-    icon: "ri-github-fill",
-    link: "https://www.github.com/"
+    icon: "ri-facebook-fill",
+    link: "https://www.facebook.com/"
   },
   {
-    icon: "ri-netflix-fill",
-    link: "https://www.netflix.com/"
+    icon: "ri-linkedin-fill",
+    link: "https://www.linkedin.com/"
+  },
+  {
+    icon: "ri-github-fill",
+    link: "https://www.github.com/"
   }
 ]
 
