@@ -18,7 +18,10 @@ const ICONS = [
   {
     icon: "ri-github-fill",
     link: "https://www.github.com/"
-  }
+  },
+  {
+    icon: "ri-netflix-fill",
+    link: "https://www.netflix.com/"
 ]
 
 const LIST_ITEMS = [
